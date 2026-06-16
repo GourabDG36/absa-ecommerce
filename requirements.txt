@@ -1,0 +1,16 @@
+transformers
+torch
+datasets
+scikit-learn
+shap
+mlflow
+optuna
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+lxml
+python-dotenv
