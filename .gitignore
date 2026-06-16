@@ -1,0 +1,19 @@
+# data
+data/raw/
+data/processed/
+
+# model weights
+outputs/model/
+
+# python
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+
+# mlflow
+mlruns/
+
+# plots
+outputs/eda/
