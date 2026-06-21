@@ -1,0 +1,7 @@
+text,aspect_term,true_label,predicted_label,prob_positive,prob_negative,prob_neutral
+A wonderful place!,place,positive,positive,0.47897035,0.24459478,0.27643496
+I recommend the meatballs and caprese salad and the beans on toast were a wonderful start to the meal!,caprese salad,positive,negative,0.25570062,0.3800596,0.36423978
+This is not a serious gaming laptop or a serious media machine;,gaming,negative,positive,0.57294995,0.19832052,0.22872947
+Again- windows based machines were not giving me anything to work with!,windows,negative,negative,0.2461378,0.38444683,0.36941534
+"Dip the ingredients in with your chopsticks, swirl them around, and eat.",ingredients,neutral,negative,0.2629446,0.37462524,0.36243019
+"I run Dreamweaver, Final Cut Pro 7, Photoshop, Safari, Firefox, MSN Messenger and a few other applications constantly at the same time.",Safari,neutral,negative,0.25918928,0.3781105,0.36270028

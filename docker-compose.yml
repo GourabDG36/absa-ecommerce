@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  absa-api:
+    build: .
+    ports:
+      - "8001:8000"
+    volumes:
+      - ./outputs/model:/app/outputs/model
+    environment:
+      - PYTHONUNBUFFERED=1
